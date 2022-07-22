@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/kyqyv04elh8qecwv?svg=true)](https://ci.appveyor.com/project/ScorWag/aqa-practice-2-1)
